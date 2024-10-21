@@ -1,4 +1,4 @@
-use core::str;
+use std::str;
 
 use mpi::traits::{Communicator, Destination, Source};
 
